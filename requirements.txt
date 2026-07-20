@@ -8,3 +8,4 @@ seaborn
 Pillow
 tqdm
 timm
+streamlit
