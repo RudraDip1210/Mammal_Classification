@@ -1,0 +1,51 @@
+                  precision    recall  f1-score   support
+
+african_elephant       0.96      0.96      0.96        53
+          alpaca       0.82      0.80      0.81        51
+  american_bison       0.96      0.94      0.95        52
+        anteater       0.83      0.76      0.80        46
+      arctic_fox       0.93      0.90      0.91        48
+       armadillo       1.00      0.94      0.97        51
+          baboon       0.98      0.94      0.96        51
+          badger       0.93      0.91      0.92        47
+      blue_whale       0.86      0.81      0.83        37
+      brown_bear       0.98      0.93      0.95        45
+           camel       0.83      0.87      0.85        39
+         dolphin       0.77      0.90      0.83        48
+         giraffe       0.93      0.91      0.92        47
+       groundhog       0.91      0.87      0.89        47
+ highland_cattle       0.82      0.96      0.88        48
+           horse       0.82      0.87      0.84        46
+          jackal       0.95      0.95      0.95        43
+        kangaroo       0.73      0.88      0.80        49
+           koala       1.00      0.96      0.98        49
+         manatee       0.80      0.92      0.85        51
+        mongoose       0.80      0.73      0.76        44
+   mountain_goat       0.87      0.80      0.83        50
+         opossum       0.94      0.92      0.93        51
+       orangutan       1.00      1.00      1.00        52
+           otter       0.85      0.77      0.81        53
+      polar_bear       0.87      0.89      0.88        54
+       porcupine       1.00      0.98      0.99        49
+       red_panda       0.94      0.98      0.96        50
+      rhinoceros       0.81      0.81      0.81        42
+        sea_lion       0.68      0.75      0.71        51
+            seal       0.55      0.36      0.43        50
+    snow_leopard       0.96      0.96      0.96        54
+        squirrel       0.78      0.86      0.82        50
+    sugar_glider       0.82      0.85      0.84        39
+           tapir       0.73      0.84      0.78        49
+     vampire_bat       0.78      0.86      0.82        37
+          vicuna       0.91      0.64      0.75        33
+          walrus       0.79      0.77      0.78        44
+         warthog       0.89      0.82      0.86        40
+   water_buffalo       0.73      0.67      0.70        48
+          weasel       0.89      0.79      0.84        43
+      wildebeest       0.66      0.79      0.72        47
+          wombat       0.89      0.98      0.93        48
+             yak       0.78      0.74      0.76        39
+           zebra       0.93      0.98      0.95        42
+
+        accuracy                           0.86      2107
+       macro avg       0.86      0.86      0.86      2107
+    weighted avg       0.86      0.86      0.86      2107
