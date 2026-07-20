@@ -4,6 +4,7 @@ A lightweight image classifier for 45 animal species, built around a
 Siamese-style metric-learning encoder and a small classifier head trained
 on top of it. Designed to train on a single consumer GPU (developed and
 tested on 8GB VRAM / 16GB RAM / Ryzen 7).
+
 Live Demo : https://mammalclassification-89wnvzsartehsserceymc3.streamlit.app/
 ## How it works
 
