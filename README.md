@@ -193,11 +193,6 @@ vampire_bat, vicuna, walrus, warthog, water_buffalo, weasel, wildebeest,
 wombat, yak, zebra
 ```
 
-## Checkpoints
-
-`checkpoints/encoder.pt` and `checkpoints/classifier.pt` are gitignored
-(binary weights don't belong in git history). Distribute trained weights
-via GitHub Releases instead, and link them here once uploaded.
 
 ## Hardware used
 
